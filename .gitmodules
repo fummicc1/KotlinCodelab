@@ -1,3 +1,6 @@
 [submodule "SampleChatApp"]
 	path = SampleChatApp
 	url = https://github.com/fummicc1/SampleChatApp
+[submodule "ToDoAndroidApp"]
+	path = ToDoAndroidApp
+	url = git@github.com:fummicc1/ToDoAndroidApp.git
