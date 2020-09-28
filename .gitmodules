@@ -4,3 +4,6 @@
 [submodule "ToDoAndroidApp"]
 	path = ToDoAndroidApp
 	url = git@github.com:fummicc1/ToDoAndroidApp.git
+[submodule "SampleOfNavigationApp"]
+	path = SampleOfNavigationApp
+	url = https://github.com/fummicc1/SampleOfNavigationApp
